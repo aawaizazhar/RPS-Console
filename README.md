@@ -18,4 +18,14 @@ Test your luck against the computer — can you outsmart it and win the game?
 ## 🚀 Tech Stack
 
 - HTML (for the basic page structure)
-- JavaSc
+- JavaScript (game logic + console interaction)
+
+---
+
+## ▶️ How to Play
+
+1. Open the project in a browser.
+2. Right-click and choose **Inspect** → go to the **Console** tab.
+3. Type and run:
+   ```js
+   playGame("rock") // or "paper" or "scissors"
